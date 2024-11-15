@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146919439652",
+    "project_id": "agendaconsulta-9da4f",
+    "storage_bucket": "agendaconsulta-9da4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146919439652:android:fd6f90ae152a4b0525c7b1",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.agendaconsultas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHihAEL0HaopDYSnLSAc35KjJZjfd4QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
